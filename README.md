@@ -15,7 +15,7 @@ This project is a web-based mapping application that utilizes OpenLayers and Geo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/group8-web-map.git
+   git clone https://github.com/Fredo200/group8-web-map.git
 
 2. Navigate to the project directory:
    cd group8-web-map
